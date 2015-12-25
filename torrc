@@ -1,5 +1,5 @@
 ORPort 9001
 DirPort 9030
-AccountingMax 1 TB
+AccountingMax 512 GB
 AccountingStart month 1 00:00
 ExitPolicy reject *:*
