@@ -1,4 +1,3 @@
-DataDirectory /tmp/tor
 ORPort 9001
 DirPort 9030
 AccountingMax 1 TB
